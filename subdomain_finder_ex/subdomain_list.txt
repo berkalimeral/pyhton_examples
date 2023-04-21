@@ -1,0 +1,15 @@
+mail
+admin
+local
+rocket
+drive
+images
+io
+blog
+support
+test
+news
+example
+user
+pyhton
+nasa
